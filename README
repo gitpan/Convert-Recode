@@ -8,5 +8,7 @@ knows about.
   }
 
 ---------------------------------------------------------------------
-© 1997 Gisle Aas. All rights reserved.
-Portions © 1997 Ed Avis, <epa98@doc.ic.ac.uk>.
+© 1997,2003 Gisle Aas. All rights reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.

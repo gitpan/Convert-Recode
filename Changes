@@ -1,8 +1,13 @@
-2000-10-12   Ed Avis <epa98@doc.ic.ac.uk>
+2003-12-18  Gisle Aas <gisle@ActiveState.com>
 
    Release 1.04
 
-   Catch errors from recode better, support identity mappings
+   Make it work with modern versions of recode.  Needs recode v3.5
+   or better now.
+
+   Make it work on systems where /dev/null is spelled differently.
+
+   Documentation fixes by Paul Croome <Paul.Croome@softwareag.com>.
 
 
 

@@ -14,6 +14,4 @@ use Convert::Recode qw(strict_latin1_to_iso646no);
 print "not " unless strict_latin1_to_iso646no("{}æøå¹²³") eq "{|}";
 print "ok 3\n";
 
-use Convert::Recode qw(latin1_to_latin1);
-print "not " unless latin1_to_latin1("$%^&*") eq "$%^&*";
-print "ok 4\n";
+
