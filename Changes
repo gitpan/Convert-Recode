@@ -1,3 +1,11 @@
+2000-10-12   Ed Avis <epa98@doc.ic.ac.uk>
+
+   Release 1.04
+
+   Catch errors from recode better, support identity mappings
+
+
+
 1997-09-19   Gisle Aas <aas@sn.no>
 
    Release 1.03
